@@ -1,0 +1,16 @@
+/* font-family: 'Bebas Neue', cursive; */
+/* <i class="fas fa-download"></i> */
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    box-sizing: border-box;
+}
+
+html, 
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
