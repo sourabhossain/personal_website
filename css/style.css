@@ -21,7 +21,7 @@ body {
 
 .btn {
     color: #ffffff;
-    padding: 20px 40px;
+    padding: 20px 60px;
     position: relative;
     display: inline-block;
     text-align: center;
@@ -40,6 +40,7 @@ body {
     -ms-border-radius: 3px;
     -o-border-radius: 3px;
     margin-top: 15px;
+    font-weight: 700;
 }
 
 .btn:hover {
