@@ -234,6 +234,60 @@ body {
 }
 /* projects part end */
 
+/* contacts part start */
+
+#contacts {
+    margin-top: 60px;
+}
+
+.contacts-top {
+    background: url(../images/bg.png) no-repeat center/cover;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 40px;
+    margin: 0px 20%;
+}
+
+.contacts-top h2 {
+    font-family: 'Bebas Neue', cursive;
+    color: #ffffff;
+    font-size: 64px;
+    font-weight: 400;
+}
+
+.contacts-bottom {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.contacts-bottom h3 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 24px;
+    color: #696871;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.contacts-bottom h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #363958;
+    margin-bottom: 20px;
+}
+
+.contacts-bottom img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+/* contacts part end */
+
 /* footer part start */
 #footer {
     text-align: center;
